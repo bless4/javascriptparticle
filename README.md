@@ -1,2 +1,2 @@
 # javascriptparticle
-# javascript light weighted particles with poligonal shape of 80 particles.
+# javascript light weighted particles with polygonal shape of 80 particles.
